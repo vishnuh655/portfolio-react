@@ -1,0 +1,19 @@
+.Footer {
+    padding-bottom: 40px;
+    font-size: 1.5rem;
+    position: fixed;
+   left: 0;
+   bottom: 0;
+   width: 100%;
+   color: white;
+   text-align: center;
+}
+
+.space {
+    padding-right: 1.5rem;
+}
+
+icon {
+    display: inline-block;
+	text-decoration: none;
+}

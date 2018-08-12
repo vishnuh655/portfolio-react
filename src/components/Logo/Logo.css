@@ -1,0 +1,11 @@
+.Logo {
+    padding-top: 10vh;
+    color: white;
+    font-size: 30px;
+    text-align: center;
+}
+
+.responsive {
+    width: 30vh;
+    height: auto;
+}
